@@ -12,7 +12,6 @@
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="Matlab" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
 
 
 
